@@ -30,4 +30,4 @@ command descrion
 --address you wallet address
 --pool you mining pool
 --thread-count start thread number
-```shell
+```
