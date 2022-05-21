@@ -7,6 +7,8 @@
 1. first download the realse program.  https://github.com/NoahMiner/noah-miner/releases
 
 if you run in windows .you just download the windows version ,and start the cmd. change dir to you noad-miner dir.
+
+
 2. run the command
 
 for windows
