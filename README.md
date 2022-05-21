@@ -1,8 +1,12 @@
 # Multi-currency mining program 
 
+**no develop fee**
+
 Join the Channel:
 
 Dsicord : https://discord.gg/vvBymxTTSn
+
+
 
 
 ## support coin
