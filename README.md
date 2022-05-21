@@ -1,4 +1,10 @@
 # Multi-currency mining program 
+
+Join the Channel:
+
+Dsicord : https://discord.gg/vvBymxTTSn
+
+
 ## support coin
 - Ironfish
 
